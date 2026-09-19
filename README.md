@@ -16,8 +16,9 @@ The Palmer Penguins dataset contains physical measurements for 344 penguinsfrom 
 3-Clustering — discovering natural groups (KMeans, Hierarchical, DBSCAN) + PCA visualization
 
 ## 📊 EDA Preview
-![images\scatterplot.png](images\scatterplot.png)
-![images\Correlation Heatmap.png](images\Correlation Heatmap.png)
+![images/scatterplot.png](images/scatterplot.png)
+
+![images/Correlation-Heatmap.png](images/Correlation-Heatmap.png)
 
 ## 📂 Dataset
 Source: Kaggle — Palmer Penguins
@@ -76,7 +77,7 @@ PCA compressed the features into 2 components keeping 88.4% of total variance.
 ## 📊 Clusters Visualization
 ### PCA Clusters
 
-![images\pca_clusters.png](images\pca_clusters.png)
+![images/pca_clusters.png](images/pca_clusters.png)
 
 🔑 Key Findings
 
