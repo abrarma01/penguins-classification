@@ -9,11 +9,11 @@ The Palmer Penguins dataset contains physical measurements for 344 penguinsfrom 
 
 ### This project goes beyond a single model — it explores three ML tasks:
 
-1-Classification — predicting penguin sex from body measurements (6 classifiers)
+1-Classification — predicting penguin sex from body measurements (6 classifiers).
 
-2-Regression — predicting body_mass_g (4 regressors)
+2-Regression — predicting body_mass_g (4 regressors).
 
-3-Clustering — discovering natural groups (KMeans, Hierarchical, DBSCAN) + PCA visualization
+3-Clustering — discovering natural groups (KMeans, Hierarchical, DBSCAN) + PCA visualization.
 
 ## 📊 EDA Preview
 ![images/scatterplot.png](images/scatterplot.png)
